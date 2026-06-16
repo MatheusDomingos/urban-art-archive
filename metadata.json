@@ -1,0 +1,6 @@
+{
+  "name": "Urban Art Archive",
+  "description": "An interactive industrial-grade monitoring console and archive for recording, tracking, and verifying urban guerrilla art and interventions across sector territories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
